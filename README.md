@@ -32,6 +32,11 @@ Two unofficial, modified versions of firmware v2.0.9. Both contain the same brig
 - **Startup picture fix:** removes the black strip caused by the earlier daylight patch at the top of the boot picture.
 - **Scan-screen fix:** keeps the daylight colors and A/B highlight during scanning, instead of switching to a mixed dark/light display.
 
+## Support
+
+You can support my work directly at https://www.white-tree.net/donate (100% goes to me), or buy me a coffee at https://www.buymeacoffee.com/SY1EBE ☕
+Every bit helps me keep experimenting, building, and sharing! 🙏
+
 ## Risk and responsibility
 
 Flashing experimental firmware can make your radio unusable, erase settings or cause unexpected behavior. Back up your settings and keep a known-working firmware before using these files. Only proceed if you understand how to restore your radio.
