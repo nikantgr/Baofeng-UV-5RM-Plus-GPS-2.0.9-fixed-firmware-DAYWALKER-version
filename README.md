@@ -19,7 +19,7 @@ Two unofficial, modified versions of firmware v2.0.9. Both contain the same brig
 
 - **Brightness levels work in the correct direction.** Level 1 is the dimmest and level 5 is the brightest. This setting is called **Brightness** on the radio and **Tone Level** in CPS.
 - **Automatic screen dimming works again.** The screen dims after the configured timeout and returns to the selected brightness when it wakes.
-- **APRS Signal Path no longer changes the final SSID when reopened and saved.** For example, `WIDE1-1,WIDE2-1` should remain `WIDE1-1,WIDE2-1`, instead of becoming `WIDE1-1,WIDE2-6`.
+- **APRS possible fixes**
 
 **Already have a wrong APRS path saved?** Re-enter the correct path after installing the firmware. Existing incorrect values are not repaired automatically. This fixes the path-editing bug; it is not a promise that every APRS function works correctly.
 
