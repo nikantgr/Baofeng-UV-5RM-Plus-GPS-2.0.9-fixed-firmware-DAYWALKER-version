@@ -1,5 +1,7 @@
 # **WARNING! EXPERIMENTAL! USE AT OWN RISK!**
 
+# WATCH VIDEO HERE: https://youtu.be/hUGWN7x2NCk
+
 # Baofeng UV-5RM Plus GPS - DARK & DAYWALKER
 
 Two unofficial, modified versions of firmware v2.0.9. Both contain the same brightness, automatic dimming and APRS Signal Path fixes. Choose the screen appearance you prefer.
@@ -10,8 +12,8 @@ Two unofficial, modified versions of firmware v2.0.9. Both contain the same brig
 
 | Version | File | Screen appearance |
 | --- | --- | --- |
-| **DARK** | [BF_5RM-Plus-GPS_v2_0_9_screenfix-etc.dat](BF_5RM-Plus-GPS_v2_0_9_screenfix-etc.dat) | Keeps the original dark background and screen colors. |
-| **DAYWALKER** | [BF_5RM-Plus-GPS_v2_0_9_daywalker.dat](BF_5RM-Plus-GPS_v2_0_9_daywalker.dat) | A light screen theme designed to improve readability in bright sunlight. |
+| **DARK** | [BF_5RM-Plus-GPS_v2_0_9_DARK_APRS-FIX-R3_EXPERIMENTAL.dat](BF_5RM-Plus-GPS_v2_0_9_DARK_APRS-FIX-R3_EXPERIMENTAL.dat) | Keeps the original dark background and screen colors. |
+| **DAYWALKER** | [BF_5RM-Plus-GPS_v2_0_9_DAYWALKER_APRS-FIX-R3_EXPERIMENTAL.dat](BF_5RM-Plus-GPS_v2_0_9_DAYWALKER_APRS-FIX-R3_EXPERIMENTAL.dat) | A light screen theme designed to improve readability in bright sunlight. |
 
 ## Fixes included in BOTH versions
 
