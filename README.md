@@ -12,8 +12,8 @@ Two unofficial, modified versions of firmware v2.0.9. Both contain the same brig
 
 | Version | File | Screen appearance |
 | --- | --- | --- |
-| **DARK** | [BF_5RM-Plus-GPS_v2_0_9_DARK_APRS-FIX-R3_EXPERIMENTAL.dat](BF_5RM-Plus-GPS_v2_0_9_DARK_APRS-FIX-R3_EXPERIMENTAL.dat) | Keeps the original dark background and screen colors. |
-| **DAYWALKER** | [BF_5RM-Plus-GPS_v2_0_9_DAYWALKER_APRS-FIX-R3_EXPERIMENTAL.dat](BF_5RM-Plus-GPS_v2_0_9_DAYWALKER_APRS-FIX-R3_EXPERIMENTAL.dat) | A light screen theme designed to improve readability in bright sunlight. |
+| **DARK** | [BF_5RM-Plus-GPS_v2_0_9_DARK_APRS-FIX-R4_EXPERIMENTAL.dat](BF_5RM-Plus-GPS_v2_0_9_DARK_APRS-FIX-R4_EXPERIMENTAL.dat) | Keeps the original dark background and screen colors. |
+| **DAYWALKER** | [BF_5RM-Plus-GPS_v2_0_9_DAYWALKER_APRS-FIX-R4_EXPERIMENTAL.dat](BF_5RM-Plus-GPS_v2_0_9_DAYWALKER_APRS-FIX-R4_EXPERIMENTAL.dat) | A light screen theme designed to improve readability in bright sunlight. |
 
 ## Fixes included in BOTH versions
 
